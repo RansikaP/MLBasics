@@ -5,7 +5,7 @@ This project was a simple one that I completed at the start of the pandemic.<br>
 The goal was to help me understand some of the basics of machine learning and some machine learning algorithms, and implement some of these aloritms of sample datasets.<br>
 As well as learning what tensor flow is and how to work with it.<br>
 Everything that I learned theory wise throughout this process is documented 
-[here] (https://www.notion.so/Python-Machine-Learning-Tutorial-8bddc36586364af5acb438e33361e3af)
+[here](https://www.notion.so/Python-Machine-Learning-Tutorial-8bddc36586364af5acb438e33361e3af)
 on this notion page.
 
 ## Conclusion
