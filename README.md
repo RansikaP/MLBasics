@@ -12,5 +12,5 @@ Moving forward I would like to keep exploring topics in machine learning and dev
 
 ### Graph of Linear Regression Model
 <p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/RansikaP/MLBasics/blob/master/images/graph.PNG" width="450"/>
+<img align="top" style="vertical-align:top" src="https://github.com/RansikaP/MLBasics/blob/main/images/graph.PNG" width="450"/>
 </p>
