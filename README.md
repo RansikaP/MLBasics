@@ -10,7 +10,7 @@ In the end I was able to build some models using built-in algoritms and generate
 I was even able to generate some visual models such as the one shown below.<br> 
 Moving forward I would like to keep exploring topics in machine learning and develop some models that can work as part of an working app.<br>
 
-### Graph of Linear Regression Model
+### Graph of Linear Regression Model Showing Students Final Grade vs Their 2nd Grade
 <p align="center" style="vertical-align: top; position: relative" >
 <img align="top" style="vertical-align:top" src="https://github.com/RansikaP/MLBasics/blob/main/images/graph.PNG" width="450"/>
 </p>
